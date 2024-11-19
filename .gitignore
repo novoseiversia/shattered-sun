@@ -1,7 +1,10 @@
 *
 
 !/.gitignore
+!/.latexmkrc
 !/README.md
 
-!/book.pdf
-!/book.tex
+!/src/
+!/src/latex/
+!/src/latex/book.pdf
+!/src/latex/book.tex
